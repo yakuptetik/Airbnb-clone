@@ -1,0 +1,91 @@
+[ 
+    {  
+        "id": 0,
+        "name": "Arda TURAN",
+        "joined": "22-09-2022",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Istanbul/Turkey",
+        "language": "Turkish",
+        "job": "Developer",
+        "starRateCount": 100,
+        "confirmed": {
+            "ıdentity":true,
+            "phone":false,
+            "email":true
+        }
+    },
+    {  
+        "id": 1,
+        "name": "Mehmet YILMAZ",
+        "joined": "22-02-2011",
+        "description": "Fetöcü Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Kars/Turkey",
+        "language": "Turkish,Fillipines",
+        "job": "Fan of Fetullah Gülen",
+        "starRateCount": 10,
+        "confirmed": {
+            "phone":false,
+            "email":true
+        }
+    },
+    {  
+        "id": 2,
+        "name": "Samet ÇOBAN",
+        "joined": "11-09-2020",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Van/Turkey",
+        "language": "Turkish,Italian",
+        "job": "Master Sensei",
+        "starRateCount": 1000,
+        "confirmed": {
+            "ıdentity":true,
+            "phone":false,
+            "email":true
+        }
+    },
+    {  
+        "id": 3,
+        "name": "Berat BEDÜK",
+        "joined": "12-02-2021",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Siirt/Turkey",
+        "language": "Turkish,Spanish",
+        "job": "Mobil.vip",
+        "starRateCount": 99,
+        "confirmed": {
+            "ıdentity":true
+          
+        }
+    },
+    {  
+        "id": 4,
+        "name": "Osman BERK",
+        "joined": "15-05-2021",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Minsk/Belarus",
+        "language": "Turkish",
+        "job": "Samira Master",
+        "starRateCount": 100,
+        "confirmed": {
+            "phone":false,
+            "email":true
+        }
+    },
+    {  
+        "id": 5,
+        "name": "Hasan TÜTÜNCÜOĞLU",
+        "joined": "06-06-2022",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam cumque perspiciatis dolorum, voluptatum, deleniti veritatis minus accusamus pariatur dolores tenetur, animi at repellat fuga illo aut soluta? Accusamus, explicabo nulla?",
+        "location": "Bursa/Turkey",
+        "language": "Turkish,English",
+        "job": "Developer",
+        "starRateCount": 100,
+        "confirmed": {
+            "ıdentity":true,
+            "phone":false,
+            "email":true
+        }
+    }
+  
+]
+

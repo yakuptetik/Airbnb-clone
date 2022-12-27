@@ -1,0 +1,1756 @@
+[
+    {
+        "id":0,
+        "vote":"5,0",
+        "name":"Sahil ve dağ manzarası",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/437cc9d0-2b87-4e5a-a6dc-323c9e1fdcb8.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/e7d8a88e-89e2-4648-8c04-be05d3de1c78.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/5c260462-4c2e-4bf1-96da-e59eab665090.jpeg?im_w=1200"
+            
+        ],
+        "locaiton":"Gelemiş,Türkiye",
+        "date":"8 - 13 Oca",
+        "owner":"Berkan",
+        "placeDetails":"Misafirler evin tamamını , havuzu , terası , arka ufak bahçeyi kullanabilirler :)",
+        "attention":"Eve gelen 4 km lik biraz bozuk yolumuz var , doğa içerisinde olduğumuzdan evimizin yakınında market yok bunlara dikkat etmeleri yeterli :)",
+        "price":"1461",
+        "profilPic":"https://a0.muscache.com/im/pictures/user/4694e99a-93a0-40ad-bb6b-c98aae97572c.jpg?im_w=240",
+        "title":"Kalkan - 2+1 - Tam Deniz Manzaralı - Shavilla Han",
+        "placedesc":"Misafirler evin tamamını , havuzu , terası , arka ufak bahçeyi kullanabilirler :)",
+        "placeabout":"Dikkat edilecek diğer şeyler",
+        "description":"Kalkan Yalı mevkiinde 2+1 5 kişi kapasiteli etnik harman tuğla villa . 7 metreye 5 metre havuzlu ,  full deniz manzaralı , Kalkanda eşi benzeri olmayan bir yapıda .2 Yatak odalı 2 ebeveyn Banyolu mutfağında her türlü araç gereci bulabileceğiniz kendi evinizin konforunda Shavilla çatısı altında sizlerle :)",
+        "explane":"Tüm villa",
+        "isWish":false,
+        "maxcustomer":5,
+        "bedroom":2,
+        "maxbed":2,
+        "bathromm":1,
+        "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rate": "5",
+              "date":"Kasım 2022",
+              "id":0,
+              "raters":"Burak",
+              "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+              "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+            },
+            { 
+              "rate": "5",
+              "date":"Eylül 2022",
+              "id":1,
+              "raters":"Lena",
+              "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+              "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+            },
+            { 
+              "rate": "5",
+              "date":"Ekim 2022",
+              "id":2,
+              "raters":"Tuğba",
+              "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+              "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+            },
+            { 
+              "rate": "5",
+              "date":"Eylül 2022",
+              "id":3,
+              "raters":"Oğuzhan",
+              "image":"https://a0.muscache.com/defaults/user_pic-225x225.png?im_w=240",
+              "description":"Berkan Bey ve ailesine misafirperverliklerinden dolayı teşekkür ederiz. İhtiyacımız olan her konuda destek oldular. Yol biraz göz korkutuyor fakat bir sorun yaşamadık."
+            },
+            { 
+              "rate": "5",
+              "date":"Ağustos 2022",
+              "id":4,
+              "raters":"Ahmet",
+              "image":"https://a0.muscache.com/im/pictures/user/735ca7f4-3dca-49b3-8c51-ef8b0e7e6c92.jpg?im_w=240",
+              "description":"Temizliği, manzarası ve ilgili olmaları çok güzeldi. Taş evin modern köy evi konsepti çok ilgi çekiciydi. Mutlaka öneririm."   
+            },
+            { 
+              "rate": "5",
+              "date":"Ağustos 2022",
+              "id":5,
+              "raters":"Berk",
+              "image":"https://a0.muscache.com/im/pictures/user/e2844516-a074-4d43-a006-713416e1a8e7.jpg?im_w=240",
+              "description":"Evin konumu, manzarası, doğası çok güzeldi. Evde işinize yarabilecek tüm malzemeler vardı. Ana yoldan sonra eve giden güzergah stabilize yol, alışık olmayanlara biraz zor gelebilir"
+            },
+            { 
+              "rate": "5",
+              "date":"Kasım 2022",
+              "id":6,
+              "raters":"Burak",
+              "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+              "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+            },
+            { 
+              "rate": "5",
+              "date":"Eylül 2022",
+              "id":7,
+              "raters":"Lena",
+              "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+              "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+            },
+            { 
+              "rate": "5",
+              "date":"Ekim 2022",
+              "id":8,
+              "raters":"Tuğba",
+              "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+              "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+            },
+            { 
+              "rate": "4",
+              "date":"Kasım 2022",
+              "id":9,
+              "raters":"Burak",
+              "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+              "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+            },
+            { 
+              "rate": "5",
+              "date":"Eylül 2022",
+              "id":10,
+              "raters":"Lena",
+              "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+              "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+            },
+            { 
+              "rate": "5",
+              "date":"Ekim 2022",
+              "id":11,
+              "raters":"Tuğba",
+              "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+              "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+            },
+            { 
+              "rate": "5",
+              "date":"Ekim 2022",
+              "id":12,
+              "raters":"Tuğba",
+              "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+              "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+            }
+        
+            ]
+    
+    
+    },
+    {
+        "id":1,
+        "vote":"5,0",
+        "name":"Sahil ve dağ manzarası",
+        "date":"20 - 25 Ara",
+        "explane":"Tüm villa",
+        "profilPic":"https://a0.muscache.com/im/pictures/user/143723a2-07f4-4cb7-9754-d82d61930cf7.jpg?im_w=240",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/84073387/26572c9d_original.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-618133020295708288/original/4ddde677-af85-4038-a2a1-93294bffd8f5.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/eb5ed6f7-e977-4316-9cbc-a9bbf64e7075.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/47b9a4f2-2b7d-473c-9c4d-762629d6ef98.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-618133020295708288/original/12a4e011-8a92-45ca-8231-35bb2bfbab1f.jpeg?im_w=720"
+        ],
+        "locaiton":"Kumluca,Türkiye",
+        "owner":"Halis",
+        "price":"1680",
+        "title":"Adrasan da Sonsuzluk Havuzlu Mağara Villa (No:5)",
+        "description":"🪨 Mağara Villa📍Antalya, Kumluca Adrasan 👨‍👩‍👧‍👧 Maksimum 5 Kişi🏡 2 yatak odası ve Amerikan mutfak 🚿🚽 2 Yatak odasında da ayrı ayrı banyo-wc 🏊‍♂️ Ortak kullanıma ait 60 m2 Sonsuzluk Havuzu 🏞 Deniz ve Doğa Manzarası🌅 Gün Doğumu 🍽 Gerekli Tüm Mutfak Gereçleri  🪣 Temizlik Araçları 🎛 Beyaz Eşya ❄️ 2 adet klima 📲 WiFi 🚗 Ücretsiz Kapalı Otopark alanı 📍Adrasan sahili 900 metre.15 dk yürüme mesafesi  📌 Süpermarketlere 1 km  🚘 Havalimanın dan Transfer Desteği",
+        "isWish":false,
+        "maxcustomer":5,
+        "bedroom":2,
+        "maxbed":2,
+        "bathromm":1,
+        "facilities":[
+            0, 2,5, 7, 9, 11, 15, 6, 17, 133, 22
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "2"   
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+             },
+            { 
+              "rating": "5"   
+            },        
+            { 
+              "rating": "4"
+            }
+            ]
+    
+    
+    },
+    {
+        "id":2,
+        "vote":"4,55",
+        "name":"2.023 kilometre uzakta",
+        "date":"16 - 22 Nis",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-664974601632410284/original/7ff55901-f6ad-44ab-8865-c3398fe55cf4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-610511843622686196/original/5d54cea0-788e-462e-83a3-5142da58193a.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-610511843622686196/original/108657cd-1b06-4510-9556-59b53a48d5b9.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-610511843622686196/original/19a492ca-0e15-4b4b-9711-6000b657c094.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-610511843622686196/original/eb5b6b2f-7815-42f3-b804-c1030c21596e.jpeg?im_w=720"
+        ],
+        "locaiton":"Joncherey, Fransa",
+        "explane":"Ağaç ev",
+        "owner":"Gaspard",
+        "profilPic":"https://a0.muscache.com/im/pictures/user/a6ccc650-1184-4401-8f29-4a7aabfc140b.jpg?im_w=240",
+        "price":"5.079",
+        "title":"2 kişi için güzel 'Nid Passion kulübesi",
+        "description":"6 metre yükseklikte tünemiş bir aşk kozası olan Lov 'Nid Passion kulübesini keşfedin. Doğayla çevrili bu romantik konaklama yerinin büyüleyici ortamının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":2,
+        "bedroom":1,
+        "maxbed":1,
+        "bathromm":1,
+        "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+          { 
+            "rate":5,
+            "date":"Ağustos 2022",
+            "id":0,
+            "raters":"Matthijs",
+            "image":"https://a0.muscache.com/im/pictures/user/e8cbbb7f-45dd-4bcc-9098-ae9e1b76813b.jpg?im_w=240",
+            "description":"Magnifique! Bu kaydın fotoğrafları bu devasa ağaç evi tam anlamıyla yansıtamıyor.Tuvalet ve lavabo ile tamamlanmış bir ağaç ev"
+          },  { 
+            "rate":5,
+            "date":"Haziran 2022",
+            "id":1,
+            "raters":"Julia",
+            "image":"https://a0.muscache.com/im/pictures/user/1dc43fe0-ab04-4475-99ab-c5140d98cbc7.jpg?im_w=240",
+            "description":"Gerçekten huzurlu! Uzun bir bisiklet yolculuğundan sonra dinlenmek için mükemmel bir konaklama yeri. Tekrar geldiğim için mutluyum:)"
+          }
+          
+            ]
+    
+    },
+    {
+        "id":3,
+        "vote":"4,97",
+        "name":"704 kilometre uzakta",
+        "date":"29 Haz - 5 Tem",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-35062831/original/1cd2cc98-5cd5-47b7-b06c-24983e2a0517.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-35062831/original/23be5217-5649-4de6-809e-37e58f53e928.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/8bebddca-42c5-4453-8ab8-5358f4dc038d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-35062831/original/7ba09d65-d600-479a-a303-420486b84a1a.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c115a2b5-2687-4465-bf93-fd8ee23ff5f3.jpg?im_w=720"
+        ],
+        "locaiton":"Zakynthos,Yunanistan",
+        "owner":"Kipi Village 2",
+        "price":"1270",
+        "explane":"Ağaç ev",
+        "profilPic":"https://a0.muscache.com/im/pictures/user/fa09dac8-12e5-4d24-bcc8-0b817b1da373.jpg?im_w=240",
+        "title":"Kaliva Ağaç Ev",
+        "description":"Kaliva doğayı sevenler için en iyi yer. Zante kasabasına 1,5 km uzaklıktadır. Araba veya bisikletle 5 -10 dakika içinde plajlara,restoranlara,barlara ve kulüplere erişim. Kaliva, müzik için elektrik (ışıklar, fişler ve buzdolabı), su , tuvalet, cibinlik, wifi ve hoparlörler sağlar. Evin altında ortak kullanılan bir duş ve mutfak var! Hassas bir uykunuz varsa lütfen bu yeri rezerve etmeyin, çünkü köpeklerin gece boyunca havlama olasılığı vardır ve uykunuzu rahatsız edebilir!",
+        "isWish":false,
+        "maxcustomer":2,
+        "bedroom":1,
+        "maxbed":1,
+        "bathromm":1.5,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+           
+          { 
+            "rate": "5",
+            "date":"Kasım 2022",
+            "id":0,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":1,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":2,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":3,
+            "raters":"Oğuzhan",
+            "image":"https://a0.muscache.com/defaults/user_pic-225x225.png?im_w=240",
+            "description":"Berkan Bey ve ailesine misafirperverliklerinden dolayı teşekkür ederiz. İhtiyacımız olan her konuda destek oldular. Yol biraz göz korkutuyor fakat bir sorun yaşamadık."
+          },
+          { 
+            "rate": "5",
+            "date":"Ağustos 2022",
+            "id":4,
+            "raters":"Ahmet",
+            "image":"https://a0.muscache.com/im/pictures/user/735ca7f4-3dca-49b3-8c51-ef8b0e7e6c92.jpg?im_w=240",
+            "description":"Temizliği, manzarası ve ilgili olmaları çok güzeldi. Taş evin modern köy evi konsepti çok ilgi çekiciydi. Mutlaka öneririm."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ağustos 2022",
+            "id":5,
+            "raters":"Berk",
+            "image":"https://a0.muscache.com/im/pictures/user/e2844516-a074-4d43-a006-713416e1a8e7.jpg?im_w=240",
+            "description":"Evin konumu, manzarası, doğası çok güzeldi. Evde işinize yarabilecek tüm malzemeler vardı. Ana yoldan sonra eve giden güzergah stabilize yol, alışık olmayanlara biraz zor gelebilir"
+          },
+          { 
+            "rate": "5",
+            "date":"Kasım 2022",
+            "id":6,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":7,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":8,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "4",
+            "date":"Kasım 2022",
+            "id":9,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":10,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":11,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":12,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+          "rate":5,
+          "date":"Ekim 2022",
+          "id":13,
+          "raters":"Joas",
+          "image":"https://a0.muscache.com/im/pictures/user/f94bebea-87b5-4844-bec6-80764b9adbd9.jpg?im_w=240",
+          "description":"Ağaç ev samimi ve güzel! Tabii ki en lüks konaklama yeri değil, ancak atmosfer bunu fazlasıyla telafi ediyor. Fırtınalı havayla iki gün geçirdik ve neyse ki bunun için iyi bir karavan var,"
+           },
+           { 
+          "rate":5,
+          "date":"Eylül 2022",
+          "id":14,
+          "raters":"Amy",
+          "image":"https://a0.muscache.com/im/pictures/user/9c20fab2-bdc9-48dc-a36a-e89abbd357d7.jpg?im_w=240",
+          "description":"Bu şimdiye kadar kaldığımız en iyi AirBnB. Mekan gerçekten harika. Havaalanına ve Zakynthos Kasabası'na yakındır."
+           }
+            ]
+    
+    },
+    {
+        "id":4,
+        "vote":"4,9",
+        "name":"313 km uzakta",
+        "date":"11 - 18 Nis",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/94bba869-518c-4e06-90b1-aec8c4d99dfe.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/098a6b6a-aa6b-4498-a8df-63795e42f232.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/02cb8dd2-2894-40c4-8b00-5b7b571c32dd.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/1a3d3457-08d5-437d-99f2-ff13269c1e5f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/ee93706f-5759-4e92-ad25-977ae188cc3f.jpg?im_w=720"
+        ],
+        "locaiton":"Mikonos/Yunanistan",
+        "owner":"Alkis",
+        "price":"22.780",
+        "title":"Mykonian Casarte'den Villa Elia",
+        "description":"Villa Elia lüks bir konaklama seçeneğidir. Aynı dış mekana sahip 2 bağımsız üniteden oluşur.İlk ev 6 misafire ev sahipliği yapıyor. 3 ana yatak odası var. Her yatak odasının kendi banyosu ve bir çift kişilik yatağı var. Geniş bir mutfak ,yemek odası ,oturma odası ve wc vardır. İkinci evde iki yatak odası vardır. Birinci ana yatak odasında bir çift kişilik yatak , ikinci yatak odasında iki tek kişilik yatak vardır. Bu evde oturma odası olan ortak bir mutfak vardır.",
+        "isWish":false,
+        "maxcustomer":10,
+        "bedroom":5,
+        "maxbed":6,
+        "bathromm":6,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+             },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+    
+    },
+    {
+        "id":5,
+        "vote":"5,0",
+        "name":"324 kilometre uzakta",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/monet/Select-22355864/original/494375aa-6cff-45c4-afab-0f20bb336e8c?im_w=960",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"Suomussalmi KK, Finlandiya",
+        "owner":"Tommi",
+        "price":"5050",
+        "title":"Sincabın Hazinesi",
+        "description":"Kiantajärvi Gölü kıyısında sessiz bir yerde muhteşem sauna kulübesi.Suomussalmi merkezine 20 km ve en yakın dükkanın bulunduğu Suomussalmi kilise köyüne 10 km.",
+        "isWish":false,
+        "maxcustomer":3,
+        "bedroom":3,
+        "maxbed":1,
+        "bathromm":1,
+        "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+             },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+    
+    },
+    {
+      "id":6,
+      "vote":"5,0",
+      "name":"ev",
+      "images":
+      [
+          "https://a0.muscache.com/im/pictures/49a12507-54e7-4bc5-a547-4a4706fea1e5.jpg?im_w=720",
+          "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"Antalya/Turkey",
+      "date":"15 - 30 Mar",
+      "owner":"Mehmet Yıldız",
+      "price":"1000",
+      "title":"Antalya'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":2,
+      "maxbed":4,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rate": "5",
+            "date":"11/11/2022",
+            "ilanId":0,
+            "userId":0,
+            "raters":"tinki winki",
+            "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+           },
+          { 
+            "rate": "5"   
+          },        
+          { 
+            "rate": "5"
+          }
+          ]
+  
+  
+    },
+    {
+        "id":7,
+        "vote":"4,6",
+        "name":"Taş ev",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-664974601632410284/original/7ff55901-f6ad-44ab-8865-c3398fe55cf4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=720"
+        ],
+        "locaiton":"Bursa/Turkey",
+        "owner":"Mett Yıldız",
+        "price":"300",
+        "title":"Bursa'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":3,
+        "bedroom":1,
+        "maxbed":1,
+        "bathromm":1,
+                "facilities":[
+            0, 2,5, 7, 9, 11, 15, 6, 17, 133, 22
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "2"   
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "5"   
+            },        
+            { 
+              "rating": "4"
+            }
+            ]
+    
+    
+    },
+    {
+        "id":8,
+        "vote":"5,0",
+        "name":"köy evikee",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/8e4334cc-4484-4af7-894e-823b85999449.jpg?im_w=720",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"Antalya/Turkey",
+        "owner":"Mehmet Yıldız",
+        "price":"1000",
+        "title":"Antalya'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":5,
+        "bedroom":2,
+        "maxbed":3,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },        
+            { 
+              "rating": "5"
+            }
+            ]
+    
+    },
+    {
+        "id":9,
+        "vote":"5,0",
+        "name":"residance",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/0e30255a-ee13-40fb-9d26-58caf6f9d3d8.jpg?im_w=720",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"Antalya/Turkey",
+        "owner":"ahmet Yıldız",
+        "price":"1000",
+        "title":"Antalya'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":3,
+        "maxbed":5,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+    
+    },
+    {
+        "id":10,
+        "vote":"5,0",
+        "name":"bungalov",
+        "date":"11 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/2320801f-3852-4ee8-8d52-8be2c4fd4164.jpg?im_w=720",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"bursa/Turkey",
+        "owner":"Mehmet osman",
+        "price":"1880",
+        "title":"bursa'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":3,
+        "maxbed":3,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+    
+    },
+    {
+        "id":11,
+        "vote":"5,0",
+        "name":"klübe",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://a0.muscache.com/im/pictures/6507f49b-1d5a-43ed-9830-1a903eb402ba.jpg?im_w=720",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"İstanbul/Turkey",
+        "owner":"Mehmet Yıldız",
+        "price":"1000",
+        "title":"istanbul'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":2,
+        "maxbed":4,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+    
+    },
+    {
+      "id":12,
+      "vote":"5,0",
+      "name":"villa",
+      "images":
+      [
+          "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=960",
+          "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"Antalya/Turkey",
+      "date":"15 - 30 Mar",
+      "owner":"Mehmet Yıldız",
+      "price":"1000",
+      "title":"Antalya'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":2,
+      "maxbed":4,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rate": "5",
+            "date":"11/11/2022",
+            "ilanId":0,
+            "userId":0,
+            "raters":"tinki winki",
+            "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },        
+          { 
+            "rate": "5"
+          }
+          ]
+
+
+    },
+    {
+        "id":13,
+        "vote":"5,0",
+        "name":"Taş ev",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://picsum.photos/200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=720"
+        ],
+        "locaiton":"Bursa/Turkey",
+        "owner":"Mett Yıldız",
+        "price":"300",
+        "title":"Bursa'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":3,
+        "bedroom":1,
+        "maxbed":1,
+        "bathromm":1,
+                "facilities":[
+            0, 2,5, 7, 9, 11, 15, 6, 17, 133, 22
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "2"   
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "5"   
+            },        
+            { 
+              "rating": "4"
+            }
+            ]
+
+
+    },
+    {
+        "id":14,
+        "vote":"5,0",
+        "name":"köy evikee",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"Antalya/Turkey",
+        "owner":"Mehmet Yıldız",
+        "price":"1000",
+        "title":"Antalya'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":5,
+        "bedroom":2,
+        "maxbed":3,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "5"   
+            },        
+            { 
+              "rating": "5"
+            }
+            ]
+
+    },
+    {
+        "id":15,
+        "vote":"5,0",
+        "name":"residance",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"Antalya/Turkey",
+        "owner":"ahmet Yıldız",
+        "price":"1000",
+        "title":"Antalya'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":3,
+        "maxbed":5,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "4"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+
+    },
+    {
+        "id":16,
+        "vote":"5,0",
+        "name":"bungalov",
+        "date":"11 - 30 Mar",
+        "images":
+        [
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"bursa/Turkey",
+        "owner":"Mehmet osman",
+        "price":"1880",
+        "title":"bursa'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":3,
+        "maxbed":3,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "2"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+
+    },
+    {
+        "id":17,
+        "vote":"5,0",
+        "name":"klübe",
+        "date":"15 - 30 Mar",
+        "images":
+        [
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200",
+            "https://picsum.photos/200"
+        ],
+        "locaiton":"İstanbul/Turkey",
+        "owner":"Mehmet Yıldız",
+        "price":"1000",
+        "title":"istanbul'da villa",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+        "isWish":false,
+        "maxcustomer":6,
+        "bedroom":2,
+        "maxbed":4,
+        "bathromm":1,
+                "facilities":[
+            0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+        ],
+        "ratings": [
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },
+            { 
+              "rating": "1"
+            },
+            { 
+              "rating": "5"
+            },
+            { 
+              "rating": "3"
+            },        
+            { 
+              "rating": "1"
+            }
+            ]
+
+    },
+    {
+      "id":18,
+      "vote":"5,0",
+      "name":"villa",
+      "images":
+      [
+          "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=960",
+          "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"Antalya/Turkey",
+      "date":"15 - 30 Mar",
+      "owner":"Mehmet Yıldız",
+      "price":"1000",
+      "title":"Antalya'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":2,
+      "maxbed":4,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rate": "5",
+            "date":"11/11/2022",
+            "ilanId":0,
+            "userId":0,
+            "raters":"tinki winki",
+            "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"
+          },
+          { 
+            "rate": "5"   
+          },        
+          { 
+            "rate": "5"
+          }
+          ]
+
+
+    },
+    {
+      "id":19,
+      "vote":"5,0",
+      "name":"Taş ev",
+      "date":"15 - 30 Mar",
+      "images":
+      [
+          "https://picsum.photos/200",
+          "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=720"
+      ],
+      "locaiton":"Bursa/Turkey",
+      "owner":"Mett Yıldız",
+      "price":"300",
+      "title":"Bursa'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":3,
+      "bedroom":1,
+      "maxbed":1,
+      "bathromm":1,
+            "facilities":[
+          0, 2,5, 7, 9, 11, 15, 6, 17, 133, 22
+      ],
+      "ratings": [
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "2"   
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"   
+          },
+          { 
+            "rating": "2"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "5"   
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "4"
+          },
+          { 
+            "rating": "5"   
+          },        
+          { 
+            "rating": "4"
+          }
+          ]
+
+
+    },
+    {
+      "id":20,
+      "vote":"5,0",
+      "name":"köy evikee",
+      "date":"15 - 30 Mar",
+      "images":
+      [
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"Antalya/Turkey",
+      "owner":"Mehmet Yıldız",
+      "price":"1000",
+      "title":"Antalya'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":5,
+      "bedroom":2,
+      "maxbed":3,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"   
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"   
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"   
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "5"   
+          },        
+          { 
+            "rating": "5"
+          }
+          ]
+
+    },
+    {
+      "id":21,
+      "vote":"5,0",
+      "name":"residance",
+      "date":"15 - 30 Mar",
+      "images":
+      [
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"Antalya/Turkey",
+      "owner":"ahmet Yıldız",
+      "price":"1000",
+      "title":"Antalya'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":3,
+      "maxbed":5,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "4"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "4"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "4"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "4"
+          },        
+          { 
+            "rating": "1"
+          }
+          ]
+
+    },
+    {
+      "id":22,
+      "vote":"5,0",
+      "name":"bungalov",
+      "date":"11 - 30 Mar",
+      "images":
+      [
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"bursa/Turkey",
+      "owner":"Mehmet osman",
+      "price":"1880",
+      "title":"bursa'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":3,
+      "maxbed":3,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rating": "2"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "2"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "2"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "3"
+          },        
+          { 
+            "rating": "1"
+          }
+          ]
+
+    },
+    {
+      "id":23,
+      "vote":"5,0",
+      "name":"klübe",
+      "date":"15 - 30 Mar",
+      "images":
+      [
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200",
+          "https://picsum.photos/200"
+      ],
+      "locaiton":"İstanbul/Turkey",
+      "owner":"Mehmet Yıldız",
+      "price":"1000",
+      "title":"istanbul'da villa",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+      "isWish":false,
+      "maxcustomer":6,
+      "bedroom":2,
+      "maxbed":4,
+      "bathromm":1,
+            "facilities":[
+          0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+      ],
+      "ratings": [
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "3"
+          },
+          { 
+            "rating": "1"
+          },
+          { 
+            "rating": "5"
+          },
+          { 
+            "rating": "3"
+          },        
+          { 
+            "rating": "1"
+          }
+          ]
+
+    }
+]

@@ -1,0 +1,92 @@
+ [
+    { 
+      "rate": "5",
+      "date":"11/11/2022",
+      "ilanId":0,
+      "userId":0,
+      "raters":"tinki winki boys",
+      "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+    },
+    { 
+        "rate": "5",
+        "date":"15/01/2022",
+        "ilanId":1,
+        "userId":1,
+        "raters":"celile winki",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "3",
+        "date":"11/12/2022",
+        "ilanId":2,
+        "userId":2,
+        "raters":"tinki celile",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "3",
+        "date":"11/07/2022",
+        "ilanId":3,
+        "userId":3,
+        "raters":"celil winki",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "3",
+        "date":"07/11/2022",
+        "ilanId":4,
+        "userId":4,
+        "raters":"tinki celil",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "5",
+        "date":"03/03/2022",
+        "ilanId":5,
+        "userId":5,
+        "raters":"tinki halil",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "4",
+        "date":"11/11/2022",
+        "ilanId":6,
+        "userId":6,
+        "raters":"halil winki",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "4",
+        "date":"11/11/2022",
+        "ilanId":7,
+        "userId":7,
+        "raters":"halile",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "4",
+        "date":"11/04/2022",
+        "ilanId":8,
+        "userId":8,
+        "raters":"winki",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "4",
+        "date":"04/11/2022",
+        "ilanId":9,
+        "userId":9,
+        "raters":"tinki ",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      },
+      { 
+        "rate": "5",
+        "date":"11/11/2022",
+        "ilanId":10,
+        "userId":10,
+        "raters":"halil",
+        "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları........"
+      }
+      
+
+    ]
