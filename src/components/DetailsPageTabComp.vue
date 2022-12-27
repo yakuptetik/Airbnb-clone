@@ -40,7 +40,7 @@ defineProps({
                 20 değerlendirme
             </div>
             <div class="flex justify-end items-center gap-2">
-                · <img class="h-3 w-2" src="../assets/images/Ekran Resmi 2022-12-13 09.43.54.png" alt="">  <div class="font-light">
+                · <img class="h-3 w-2" src="../assets/images/SuperHomeIcon.png" alt="">  <div class="font-light">
                     Süper Ev Sahibi 
                 </div> ·
             </div>
