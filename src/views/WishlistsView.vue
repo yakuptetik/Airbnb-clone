@@ -12,11 +12,10 @@ const wishesStore = useWishesStore();
     <div class="px-[80px]">
       <Navbar/>
     </div>
+    
     <hr>
+
     <div  class="px-[80px]">
         <WishGrid :wishes="wishesStore.wishes"/>
     </div>
-        
-
-
 </template>

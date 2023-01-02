@@ -15,24 +15,25 @@ defineProps({
 })
 </script>
 <template>
-    <button class="absolute right-4 top-4"  @click="showModal = true">
-        <div  @click="isLike = !isLike" >   
+    <button  class="absolute right-4 top-4"  @click="showModal = true">
+        <div @click="isLike = !isLike" >   
             <component :is="ilan.isWish ? LikesIcon : UnLikesIcon " />
         </div> 
     </button>
-    
-    <router-link :to="`/advert/${ilan.id}`" class="rounded-xl h-full w-full flex flex-col"> 
+    <router-link
+        :to="{ name: 'Advert', params: { id: ilan.id }}"
+        class="rounded-xl h-full w-full flex flex-col"
+    > 
         <div class="overflow-hidden  h-full w-full rounded-xl ">
             <img class="z-20 h-full w-full" :src="ilan.images[0]" alt="">
         </div>
-
         <div class="flex  text-base pt-2 justify-between items-center">
             <div> 
                 {{ilan.locaiton}}
             </div>
             <div class="flex items-center justify-center gap-1">
                 
-            <IconBase width="12" hight="12">
+            <IconBase :width="12" :height="12">
                     <StarVoteIcon/>
                 </IconBase>
                 <div class="text-sm font-light">
@@ -52,5 +53,5 @@ defineProps({
         </div>
     </router-link>
 
-    <SavedModal v-show="showModal" :wish="wish"  :ilan="ilan" @close-modal="showModal = false" />
+    <SavedModal v-show="showModal" :ilan="ilan" @close-modal="showModal = false" />
 </template>

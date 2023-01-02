@@ -19,6 +19,11 @@ function addWish(id) {
   wishesStore.addWish(props.ilan, id);
   emit('close-modal')
 }
+
+function handleClose() {
+  showModals.value = false
+  emit('close-modal')
+}
 </script>
 
 <template>
@@ -54,7 +59,7 @@ function addWish(id) {
           
           </div>
         </div>
-        <FavoriteNameModal :ilan="ilan" v-show="showModals" @close-modal="showModals = false"/> 
+        <FavoriteNameModal :ilan="ilan" v-show="showModals" @close-modal="handleClose"/> 
       </div>  
     </div>
   </template>

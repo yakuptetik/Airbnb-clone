@@ -1,13 +1,5 @@
-<script >
-import DeleteWishNameModal from './DeleteWishNameModal.vue';
-export default {
-    components: { DeleteWishNameModal, DeleteWishNameModal },
-    data() {
-      return {
-        deleteFavList: false,
-      }
-    },
-  }
+<script setup >
+
 </script>
 <template>
     <div class="flex z-50 justify-center items-center fixed top-0 bottom-0 right-0 left-0" @click="$emit('close-modal')">
@@ -19,12 +11,12 @@ export default {
         <div   class="flex items-center justify-center font-semibold">
             Ayarlar
         </div> 
-        <div @click="deleteFavList = true"   class="flex items-center justify-center font-semibold underline">
+        <div  class="flex items-center justify-center font-semibold underline">
             Sil
         </div>
    
         </div>
-        <DeleteWishNameModal v-show="deleteFavList" @close-modal="deleteFavList = false"/>
+        <!-- <DeleteWishNameModal v-show="deleteFavList" @close-modal="deleteFavList = false"/> -->
         <div class="py-8 px-4 border-b h-[160px]">
             <div class="relative">
                 <input v-model="name" type="text" id="float" class="rounded-lg block  focus:border-black border border-gray-400 focus:border-2  px-2.5 pb-2.5 pt-5 w-full text-md text-gray-900 focus:outline-none peer" placeholder=" " />

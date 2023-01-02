@@ -6,32 +6,61 @@
         [
             {
                 "id":0,
-                "name":"Sahil ve dağ manzarası",
+                "vote":"5,0",
+                "name":"324 kilometre uzakta",
+                "date":"15 - 30 Mar",
                 "images":
                 [
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/437cc9d0-2b87-4e5a-a6dc-323c9e1fdcb8.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/e7d8a88e-89e2-4648-8c04-be05d3de1c78.jpeg?im_w=1200",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/5c260462-4c2e-4bf1-96da-e59eab665090.jpeg?im_w=1200"
-                    
+                    "https://a0.muscache.com/im/pictures/monet/Select-22355864/original/494375aa-6cff-45c4-afab-0f20bb336e8c?im_w=960",
+                    "https://picsum.photos/200",
+                    "https://picsum.photos/200",
+                    "https://picsum.photos/200",
+                    "https://picsum.photos/200"
                 ],
-                "locaiton":"Gelemiş,Türkiye",
-                "date":"8 - 13 Oca", 
-                "price":"1461",
-                "profilPic":"https://a0.muscache.com/im/pictures/user/4694e99a-93a0-40ad-bb6b-c98aae97572c.jpg?im_w=240",
-                "title":"Kalkan - 2+1 - Tam Deniz Manzaralı - Shavilla Han",
-                "explane":"Tüm villa",
+                "locaiton":"Suomussalmi KK, Finlandiya",
+                "owner":"Tommi",
+                "price":"5050",
+                "title":"Sincabın Hazinesi",
+                "description":"Kiantajärvi Gölü kıyısında sessiz bir yerde muhteşem sauna kulübesi.Suomussalmi merkezine 20 km ve en yakın dükkanın bulunduğu Suomussalmi kilise köyüne 10 km.",
                 "isWish":true,
-                "maxbed":2,
+                "maxcustomer":3,
+                "bedroom":3,
+                "maxbed":1,
+                "bathromm":1,
                 "facilities":[
                     0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
                 ]
             
-            
             },
             {
-                "id":1,
+              "id":1,
+              "vote":"5,0",
+              "name":"ev",
+              "images":
+              [
+                  "https://a0.muscache.com/im/pictures/49a12507-54e7-4bc5-a547-4a4706fea1e5.jpg?im_w=720",
+                  "https://a0.muscache.com/im/pictures/miso/Hosting-52913327/original/7001f082-6712-44eb-9bac-63d24fad448a.jpeg?im_w=1200",
+                  "https://picsum.photos/200",
+                  "https://picsum.photos/200",
+                  "https://picsum.photos/200"
+              ],
+              "locaiton":"Antalya/Turkey",
+              "date":"15 - 30 Mar",
+              "owner":"Mehmet Yıldız",
+              "price":"1000",
+              "title":"Antalya'da villa",
+              "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
+              "isWish":true,
+              "maxcustomer":6,
+              "bedroom":2,
+              "maxbed":4,
+              "bathromm":1,
+                    "facilities":[
+                  0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
+              ]
+            },
+            {
+                "id":2,
                 "name":"dferefsd",
                 "images":
                 [
@@ -57,65 +86,5 @@
             
             }
         ]
-    },
-    {
-        "id":1,
-        "title":"deneme",
-        "items":
-        [
-            {
-                "id":0,
-                "name":"Sahil ve dağ manzarası",
-                "images":
-                [
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/437cc9d0-2b87-4e5a-a6dc-323c9e1fdcb8.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/e7d8a88e-89e2-4648-8c04-be05d3de1c78.jpeg?im_w=1200",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/5c260462-4c2e-4bf1-96da-e59eab665090.jpeg?im_w=1200"
-                    
-                ],
-                "locaiton":"Gelemiş,Türkiye",
-                "date":"8 - 13 Oca", 
-                "price":"1461",
-                "profilPic":"https://a0.muscache.com/im/pictures/user/4694e99a-93a0-40ad-bb6b-c98aae97572c.jpg?im_w=240",
-                "title":"Kalkan - 2+1 - Tam Deniz Manzaralı - Shavilla Han",
-                "explane":"Tüm villa",
-                "isWish":true,
-                "maxbed":2,
-                "facilities":[
-                    0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
-                ]
-            
-            
-            },
-            {
-                "id":1,
-                "name":"dferefsd",
-                "images":
-                [
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/c06def22-bd48-4900-8e7c-ca46092f952a.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/437cc9d0-2b87-4e5a-a6dc-323c9e1fdcb8.jpeg?im_w=720",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/e7d8a88e-89e2-4648-8c04-be05d3de1c78.jpeg?im_w=1200",
-                    "https://a0.muscache.com/im/pictures/miso/Hosting-50079973/original/5c260462-4c2e-4bf1-96da-e59eab665090.jpeg?im_w=1200"
-                    
-                ],
-                "locaiton":"Gelemiş,Türkiye",
-                "date":"8 - 13 Oca", 
-                "price":"1461",
-                "profilPic":"https://a0.muscache.com/im/pictures/user/4694e99a-93a0-40ad-bb6b-c98aae97572c.jpg?im_w=240",
-                "title":"Kalkan - 2+1 - Tam Deniz Manzaralı - Shavilla Han",
-                "explane":"Tüm villa",
-                "isWish":true,
-                "maxbed":2,
-                "facilities":[
-                    0, 1, 3, 7, 9, 12, 15, 14, 17, 23, 30
-                ]
-            
-            
-            }
-        ]
-       
-    }
+    } 
 ]

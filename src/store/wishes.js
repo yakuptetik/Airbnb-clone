@@ -7,7 +7,7 @@ export const useWishesStore = defineStore('wishes', () => {
     const wishes = ref([])
 
     function getWish(wishId) {
-        return wishes.value.find((wish) => wish.id === Number(wishId))
+        return wishes.value.find((wish) => wish.id == wishId)
     }
 
     function fetchWishes() {

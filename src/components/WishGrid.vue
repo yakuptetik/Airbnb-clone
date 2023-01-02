@@ -3,9 +3,13 @@
 import WishCard from './WishCard.vue';
 
 
+
+
+
 defineProps({
   wishes:Object,
-
+  items:Object,
+  ilanlar:Object
 })
 
 
@@ -18,8 +22,9 @@ defineProps({
   <div class="grid gap-6 grid-cols-3 mt-4 h-full w-full">
    
     <div v-for=" wish in wishes" :key="wish.id" class="relative">
-      <WishCard  :wish="wish" :item="item"/>
+      <WishCard :wish="wish" />
     </div>
+
   </div>
 </template>
 

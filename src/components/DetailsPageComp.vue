@@ -121,7 +121,7 @@ defineProps({
         </div>
         <div class="flex items-center gap-3 pt-8">
             <div>
-                <IconBase viewBox="0 0 16 16" height="16" width="16">
+                <IconBase viewBox="0 0 16 16" :height="16" :width="16">
                     <TranslateIcon/>
                 </IconBase>
             </div>
@@ -161,7 +161,7 @@ defineProps({
                     </div>
                     <div class="flex gap-2 text-sm ">
                         <div class="font-medium flex items-center gap-1">
-                            <IconBase viewBox="0 0 32 32" height="12" width="12">
+                            <IconBase viewBox="0 0 32 32" :height="12" :width="12">
                                 <StarVoteIcon/>
                             </IconBase>   
                         <div>

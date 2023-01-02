@@ -15,9 +15,9 @@ defineProps({
 })
 </script>
 <template>
-      <div class="flex justify-start items-center gap-3 pt-5">
+    <div class="flex justify-start items-center gap-3 pt-5">
     <div>
-    <IconBase viewBox="0 0 16 16" height="24" width="24">
+    <IconBase viewBox="0 0 16 16" :height="24" :width="24">
         <TranslateIcon/>
     </IconBase>
     </div>
@@ -28,12 +28,11 @@ defineProps({
     <div class="flex justify-between items-center pt-1 text-[14px]">
         <div class="flex justify-start items-center gap-1">
             <div class="flex items-center gap-1">
-            <IconBase viewBox="0 0 32 32" height="14" width="14">
+            <IconBase viewBox="0 0 32 32" :height="14" :width="14">
                 <StarVoteIcon/>
             </IconBase>
             <div>
                 5,0  ·
-
             </div>
             </div>
             <div class="underline">
@@ -55,7 +54,6 @@ defineProps({
                     Paylaş
                 </div>
             </div>
-
             <div class="flex justify-end items-center gap-2">
                 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation" focusable="false" style="display: block; fill: none; height: 16px; width: 16px; stroke: currentcolor; stroke-width: 2; overflow: visible;"><path d="m16 28c7-4.733 14-10 14-17 0-1.792-.683-3.583-2.05-4.95-1.367-1.366-3.158-2.05-4.95-2.05-1.791 0-3.583.684-4.949 2.05l-2.051 2.051-2.05-2.051c-1.367-1.366-3.158-2.05-4.95-2.05-1.791 0-3.583.684-4.949 2.05-1.367 1.367-2.051 3.158-2.051 4.95 0 7 7 12.267 14 17z"></path></svg>
                <div class="underline">
