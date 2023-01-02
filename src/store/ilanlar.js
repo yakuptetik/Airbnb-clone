@@ -30,8 +30,8 @@ export const useIlanlarStore = defineStore('ilanlar', () => {
       }
 
       function changeWish(id, isWish) {
-        ilan.value.find((ilan) => ilan.isWish === Boolean(isWish))
-        ilan.value.find((ilan) => ilan.id === Number(id))
+        const existingilan = ilanlar.value.find((ilan) => ilan.id === id)
+        existingilan.isWish = isWish;
       }
 
     return { ilanlar , fetchIlanlar, getIlan, changeWish, filteredIlans }

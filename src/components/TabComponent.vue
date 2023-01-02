@@ -10,8 +10,8 @@ const filteredModal = ref(false)
 </script>
 
 <template>
-    <div  class="flex   h-[98px] pt-5 items-center justify-between w-full">
-       <div class="flex items-center w-full mt-4 overflow-y-auto  gap-10">
+    <div  class="flex h-[98px] pt-5 items-center justify-between ">
+        <div class="flex items-center w-full mt-4 overflow-y-auto  gap-10">
           <div @click="selectedTab = tab.id" v-for="tab in tabs" :key="tab.id" class="cursor-pointer opacity-50 hover:border-b-2 overflow-y-auto  flex-none hover:opacity-100 pb-3" :class="selectedTab === tab.id ? '!opacity-100 border-black border-b-2': ''">
                  <div class=" flex items-center justify-center mb-2">
                     <img class="h-6 w-6" :src="tab.image" alt="">
@@ -28,7 +28,7 @@ const filteredModal = ref(false)
                 {{tab.title}}
                 </div> 
             </router-link> -->
-       </div>
+        </div>
         <div class="flex items-center max-[768px]:hidden rounded-xl ">  
             <div @click="filteredModal = true" class="flex shadow-2xl shadow-white cursor-pointer items-center justify-center border border-gray-200 h-12 text-xs px-3 rounded-xl gap-2">
                 <div>
@@ -41,7 +41,6 @@ const filteredModal = ref(false)
         
         </div>
         <FilterModal v-show="filteredModal" @close-modal="filteredModal = false"/>
-  
     </div>
     
 

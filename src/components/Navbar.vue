@@ -9,7 +9,7 @@ defineProps({
 </script>
 
 <template>
-  <div class=" w-full">
+  <div class="w-full">
      <div class="h-20 w-full flex items-center justify-between md:justify-center sm:justify-center">
       <div class="w-[70%] max-[900px]:w-[100px] max-[768px]:hidden">
         <RouterLink to="/" class="text-[#ed3b5a] w-full  min-[900px]:hidden">
@@ -25,7 +25,7 @@ defineProps({
       </RouterLink>
       </div>
 
-      <div v-if="$route.name  === 'Home'" class="flex w-full justify-center items-center">
+      <div v-if="$route.name  === 'Home' || $route.name  === 'Advert'" class="flex w-full justify-center items-center">
         <input
             class="flex  border h-12 pl-5 shadow-md  items-center justify-center rounded-full w-[108%]"
             type="text"
@@ -42,16 +42,6 @@ defineProps({
         </div> -->
       </div>
 
-      <div v-if="$route.name  === 'Advert'" class="flex border h-12  items-center justify-between rounded-full w-[70%] ">
-       <div class="pl-5 text-[14px]">
-           Aramanıza başlayın
-       </div>
-        <div class="bg-[#ed3b5a] w-8 h-8 rounded-full flex items-center justify-center mr-2 text-white ">
-          <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation" focusable="false" style="display: block; fill: none; height: 12px; width: 12px; stroke: currentcolor; stroke-width: 5.33333; overflow: visible;"><g fill="none">
-            <path d="m13 24c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11-6.07513225 0-11 4.92486775-11 11 0 6.0751322 4.92486775 11 11 11zm8-3 9 9"></path></g>
-          </svg>
-        </div>
-      </div>
       <div class="flex justify-end items-center w-full max-[768px]:hidden">
         <div class="text-[14px] rounded-full hover:bg-[#f7f7f7] h-[42px] items-center flex justify-center px-2">
           Ev sahipliği modu

@@ -5,10 +5,9 @@ import Card from '../components/Card.vue';
 import { ref } from 'vue';
 import ShareWishModal from '../components/modals/WishModals/ShareWishModal.vue';
 import { useWishesStore } from '../store/wishes';
-import { useIlanlarStore } from '../store/ilanlar'
 import { useRoute } from 'vue-router';
 
-const ilanlarStore = useIlanlarStore();
+
 
 const route = useRoute();
 const wishesStore = useWishesStore();
@@ -20,8 +19,6 @@ async function getWish() {
 
 getWish();
 
-
-
 const changeName = ref(false)
 const shareWish = ref(false)
 
@@ -30,11 +27,12 @@ const shareWish = ref(false)
 
 <template>
   <div class="relative">
-      <div class="px-6 bg-white w-full fixed top-0 left-0 right-0">
+      <div class="px-6 bg-white w-full fixed top-0 left-0 right-0 z-10">
         <Navbar/>
       </div>
-      <hr> 
-      <div class="flex mt-[80px] overflow-y-auto ">
+      <hr>
+    
+      <div class="flex mt-[80px]">
         <div class="w-3/5 p-6">       
           <div class="flex items-center justify-between">
             <div  @click="$router.back()">
@@ -53,21 +51,17 @@ const shareWish = ref(false)
 
           <div class="grid grid-rows-none gap-6 grid-cols-2 mt-6 h-full w-full lg:grid-cols-2 md:grid-cols-2  min-[570px]:grid-cols-2 max-[570px]:grid-cols-1  pb-12">
             <div v-if="wish" v-for=" ilan in wish.items" :key="ilan.id" class="relative">
-              <Card :ilan="ilan" />
+              <Card :ilan="ilan" :wish-id="wish.id"  />
             </div>
           </div>
          <ChangeWishListName v-show="changeName" @close-modal="changeName = false"/>
        
-      </div>
+        </div>
 
-      <div class="w-2/5 fixed top-20  -z-50 right-0 bottom-0">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8514.307281066966!2d29.030255837715426!3d40.2662410320713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1671622684591!5m2!1str!2str" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div>
-
+        <div class="w-2/5 fixed top-20  -z-50 right-0 bottom-0">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8514.307281066966!2d29.030255837715426!3d40.2662410320713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1671622684591!5m2!1str!2str" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
      </div>
   </div>
- 
 
-
- 
 </template>

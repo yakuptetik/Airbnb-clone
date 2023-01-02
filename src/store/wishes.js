@@ -38,13 +38,21 @@ export const useWishesStore = defineStore('wishes', () => {
       existingWish.items.push(ilan);
     }
 
-    function removeWish(id, ilan) {
+    function removeWish(wishId, ilanId) {
       const ilanlarStore = useIlanlarStore();
-      const existingilan = ilanlarStore.ilanlar.find((il) => il.id === ilan.id)
-      existingilan.isWish = false;
+      ilanlarStore.changeWish(ilanId, false);
+      
+      const existingWish = wishes.value.find((wish) => wish.id === wishId)
 
-      const existingWishIndex = wishes.value.findIndex((wish) => wish.id === id)
-      wishes.value.splice(existingWishIndex, 1)
+      const existingIlanIndex = existingWish.items.findIndex((item) => item.id === ilanId)
+      wishes.value.splice(existingIlanIndex, 1)
     }
-    return { wishes , getWish, fetchWishes, addWish, removeWish,createWish }
+    return {
+      wishes,
+      getWish,
+      fetchWishes,
+      addWish,
+      removeWish,
+      createWish
+    }
 })

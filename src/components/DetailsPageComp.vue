@@ -139,8 +139,21 @@ defineProps({
         <div>
             {{ facilities }}
         </div>
-        <div  @click="openDesc = true" class="font-medium text-base flex items-center pt-3 justify-start underline gap-1">
+        <div  @click="openDesc = true" class="font-medium py-6 text-base flex items-center pt-3 justify-start underline gap-1">
             Daha fazlasını göster<svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false" style="height: 12px; width: 12px; display: block; fill: var(--f-k-smk-x);"><path d="m4.29 1.71a1 1 0 1 1 1.42-1.41l8 8a1 1 0 0 1 0 1.41l-8 8a1 1 0 1 1 -1.42-1.41l7.29-7.29z" fill-rule="evenodd"></path></svg>
+        </div>
+        <div>
+            <div>
+                Bu mekân size neler sunuyor?
+            </div>
+            <div class="grid grid-rows-5 grid-flow-col">
+                <div class="border"></div>
+        
+
+
+            </div>
+
+
         </div>
 
         <DescriptionModal :desc="desc"
@@ -284,10 +297,8 @@ defineProps({
                                         <div class="text-sm font-normal text-black underline">
                                             Yanınızda hizmet hayvanı mı getiriyorsunuz?
                                         </div>
-
                                     </div>
-                                    <div class="flex items-center justify-between gap-4">
-                                       
+                                    <div class="flex items-center justify-between gap-4">                                  
                                         <button  @click="counters--"  class="border rounded-full h-8 w-8 items-center flex justify-center">
                                             <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation" focusable="false" style="display: block; fill: none; height: 12px; width: 12px; stroke: currentcolor; stroke-width: 5.33333; overflow: visible;"><path d="m2 16h28"></path></svg>
                                         </button>

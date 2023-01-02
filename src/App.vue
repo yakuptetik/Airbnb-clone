@@ -15,7 +15,7 @@ onMounted(() => {
 
 <template>
 
-  <div class="font-sans overflow-y-auto">
+  <div class="font-sans ">
   <router-view/>
   </div>
 

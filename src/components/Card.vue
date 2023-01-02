@@ -5,18 +5,30 @@ import { ref } from 'vue';
 import LikesIcon from './Icons/LikesIcon.vue';
 import UnLikesIcon from './Icons/UnLikesIcon.vue';
 import SavedModal from './modals/SavedModal.vue';
+import { useWishesStore } from '../store/wishes';
 
 
-const isLike = ref(false);
+
+const wishesStore = useWishesStore();
 const showModal = ref(false)
-defineProps({
+
+const props = defineProps({
     ilan:Object,
-    wish:Object
+    wishId:Object,
 })
+function handleClick(){
+    if (!props.ilan.isWish) {
+        showModal.value = true
+    }  
+    else  {
+        wishesStore.removeWish(props.wishId, props.ilan.id);
+    }
+
+}
 </script>
 <template>
-    <button  class="absolute right-4 top-4"  @click="showModal = true">
-        <div @click="isLike = !isLike" >   
+    <button class="absolute right-4 top-4" @click="handleClick()">
+        <div>   
             <component :is="ilan.isWish ? LikesIcon : UnLikesIcon " />
         </div> 
     </button>

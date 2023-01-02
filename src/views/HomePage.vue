@@ -64,17 +64,16 @@ const tabs = ref([
 </script>
 
 <template>
-  <div class="bg-white w-full static">
-      <div class="px-[80px] md:px-[70px]  sm:px-[40px] min-[440px]:px-5 max-[440px]:px-5">
+  <div class="bg-white w-full">
+      <div class="px-[80px] bg-white z-30 md:px-[70px] fixed w-full top-0 sm:px-[40px] min-[440px]:px-5 max-[440px]:px-5">
         <Navbar v-model="search"/>
+        <TabComponent :tabs="tabs"/>
       </div>
-      <hr>
-      <div class="px-[80px] md:px-[70px] lg:px-[80px]  sm:px-10  min-[440px]:px-10 max-[440px]:px-10">
-          <TabComponent :tabs="tabs"/>
+      <hr class="fixed">
+      <div class="px-[80px] top-44 md:px-[70px] relative lg:px-[80px]  sm:px-10  min-[440px]:px-10 max-[440px]:px-10">
           <HomeGrid :ilanlar="ilanlarStore.filteredIlans(search)"/>
       </div>
 
-    
           <div class="fixed max-[768px]:hidden bottom-20 w-full left-1 right-[50%] h-12  px-6 flex items-center justify-center text-sm ">
             <div class="text-white w-[170px] bg-black flex rounded-full items-center justify-center px-6 gap-2 py-4 ">
               <div class="w-full">
