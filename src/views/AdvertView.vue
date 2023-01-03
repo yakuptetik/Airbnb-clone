@@ -6,6 +6,7 @@ import { useIlanlarStore } from '../store/ilanlar'
 import { useRoute } from 'vue-router';
 import { ref } from 'vue';
 import DetailsPageTabComp from '../components/DetailsPageTabComp.vue';
+import CommentComp from '../components/CommentComp.vue';
 
 const route = useRoute();
 const ilanlarStore = useIlanlarStore();
@@ -20,16 +21,17 @@ fetchIlan();
 </script>
 
 <template>
-    <div class="px-[160px]">
+    <div class="px-[160px] min-[1200px]:px-[160px] max-[1200px]:px-[80px]">
       <Navbar/>
     </div>
     <hr>
-    <div class="px-[160px] h-screen w-screen ">
+    <div class="px-[160px] min-[1200px]:px-[160px] max-[1200px]:px-[80px]  h-screen w-screen ">
         <template v-if="ilan">
             <div>
                 <DetailsPageTabComp
                 :title="ilan.title" 
                 :locaiton="ilan.locaiton"
+                :vote="ilan.vote"
                 />
             </div>  
         </template>
@@ -47,9 +49,9 @@ fetchIlan();
                 </div>  
             </div>
         </template>
-        
+
         <template v-if="ilan">
-            <div>
+            <div class="pb-10">
                 <DetailsPageComp  
                 :owner="ilan.owner"
                 :desc="ilan.description"
@@ -62,9 +64,16 @@ fetchIlan();
                 :explane="ilan.explane"
                 :profilPic="ilan.profilPic"
                 :facilities="ilan.facilities"
+                :vote="ilan.vote"
                 />  
             </div>  
         </template>
+        <template v-if="ilan">
+            <div class="pb-10">
+               <CommentComp/>
+            </div>  
+        </template>
+       
     </div>
 
 

@@ -148,7 +148,7 @@
         "name":"Sahil ve dağ manzarası",
         "date":"20 - 25 Ara",
         "explane":"Tüm villa",
-        "profilPic":"https://a0.muscache.com/im/pictures/user/143723a2-07f4-4cb7-9754-d82d61930cf7.jpg?im_w=240",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "images":
         [
             "https://a0.muscache.com/im/pictures/84073387/26572c9d_original.jpg?im_w=720",
@@ -428,6 +428,7 @@
         "locaiton":"Mikonos/Yunanistan",
         "owner":"Alkis",
         "price":"22.780",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "title":"Mykonian Casarte'den Villa Elia",
         "description":"Villa Elia lüks bir konaklama seçeneğidir. Aynı dış mekana sahip 2 bağımsız üniteden oluşur.İlk ev 6 misafire ev sahipliği yapıyor. 3 ana yatak odası var. Her yatak odasının kendi banyosu ve bir çift kişilik yatağı var. Geniş bir mutfak ,yemek odası ,oturma odası ve wc vardır. İkinci evde iki yatak odası vardır. Birinci ana yatak odasında bir çift kişilik yatak , ikinci yatak odasında iki tek kişilik yatak vardır. Bu evde oturma odası olan ortak bir mutfak vardır.",
         "isWish":false,
@@ -494,6 +495,7 @@
         "locaiton":"Suomussalmi KK, Finlandiya",
         "owner":"Tommi",
         "price":"5050",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "title":"Sincabın Hazinesi",
         "description":"Kiantajärvi Gölü kıyısında sessiz bir yerde muhteşem sauna kulübesi.Suomussalmi merkezine 20 km ve en yakın dükkanın bulunduğu Suomussalmi kilise köyüne 10 km.",
         "isWish":true,
@@ -534,7 +536,7 @@
             },
             { 
               "rating": "5"
-             },
+            },
             { 
               "rating": "3"
             },        
@@ -558,6 +560,7 @@
       ],
       "locaiton":"Antalya/Turkey",
       "date":"15 - 30 Mar",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"Mehmet Yıldız",
       "price":"1000",
       "title":"Antalya'da villa",
@@ -631,6 +634,7 @@
         ],
         "locaiton":"Bursa/Turkey",
         "owner":"Mett Yıldız",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "price":"300",
         "title":"Bursa'da villa",
         "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
@@ -688,6 +692,7 @@
         "vote":"5,0",
         "name":"köy evikee",
         "date":"15 - 30 Mar",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "images":
         [
             "https://a0.muscache.com/im/pictures/8e4334cc-4484-4af7-894e-823b85999449.jpg?im_w=720",
@@ -764,6 +769,7 @@
         ],
         "locaiton":"Antalya/Turkey",
         "owner":"ahmet Yıldız",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "price":"1000",
         "title":"Antalya'da villa",
         "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
@@ -829,6 +835,7 @@
             "https://picsum.photos/200"
         ],
         "locaiton":"bursa/Turkey",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "owner":"Mehmet osman",
         "price":"1880",
         "title":"bursa'da villa",
@@ -897,6 +904,7 @@
         "locaiton":"İstanbul/Turkey",
         "owner":"Mehmet Yıldız",
         "price":"1000",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "title":"istanbul'da villa",
         "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
         "isWish":false,
@@ -961,6 +969,7 @@
       ],
       "locaiton":"Antalya/Turkey",
       "date":"15 - 30 Mar",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"Mehmet Yıldız",
       "price":"1000",
       "title":"Antalya'da villa",
@@ -1033,6 +1042,7 @@
             "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=720"
         ],
         "locaiton":"Bursa/Turkey",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "owner":"Mett Yıldız",
         "price":"300",
         "title":"Bursa'da villa",
@@ -1101,6 +1111,7 @@
         ],
         "locaiton":"Antalya/Turkey",
         "owner":"Mehmet Yıldız",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "price":"1000",
         "title":"Antalya'da villa",
         "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
@@ -1166,6 +1177,7 @@
             "https://picsum.photos/200"
         ],
         "locaiton":"Antalya/Turkey",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "owner":"ahmet Yıldız",
         "price":"1000",
         "title":"Antalya'da villa",
@@ -1232,6 +1244,7 @@
             "https://picsum.photos/200"
         ],
         "locaiton":"bursa/Turkey",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "owner":"Mehmet osman",
         "price":"1880",
         "title":"bursa'da villa",
@@ -1298,6 +1311,7 @@
             "https://picsum.photos/200"
         ],
         "locaiton":"İstanbul/Turkey",
+        "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
         "owner":"Mehmet Yıldız",
         "price":"1000",
         "title":"istanbul'da villa",
@@ -1363,6 +1377,7 @@
           "https://picsum.photos/200"
       ],
       "locaiton":"Antalya/Turkey",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "date":"15 - 30 Mar",
       "owner":"Mehmet Yıldız",
       "price":"1000",
@@ -1437,6 +1452,7 @@
       ],
       "locaiton":"Bursa/Turkey",
       "owner":"Mett Yıldız",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "price":"300",
       "title":"Bursa'da villa",
       "description":"Ahşap, karton ve mendil gibi sürdürülebilir malzemelerden yapılan bu paketleme evine hoş geldiniz. Zeeland'da tatil yapmak için eşsiz bir konaklama yeri. Bu tatil evinin bulunduğu ekilebilir çiftlik rahat bir atmosfere sahiptir. Dinlenmek veya çocukların trambolinler, salıncak, kaydırak, go - kart veya kum havuzunda stres atmaları için bol bol alan. Oranjezon'un kum bölgesinde uzun bir sabah yürüyüşü yapın veya bahçenizden gün batımının keyfini çıkarın.",
@@ -1503,6 +1519,7 @@
           "https://picsum.photos/200"
       ],
       "locaiton":"Antalya/Turkey",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"Mehmet Yıldız",
       "price":"1000",
       "title":"Antalya'da villa",
@@ -1569,6 +1586,7 @@
           "https://picsum.photos/200"
       ],
       "locaiton":"Antalya/Turkey",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"ahmet Yıldız",
       "price":"1000",
       "title":"Antalya'da villa",
@@ -1635,6 +1653,7 @@
           "https://picsum.photos/200"
       ],
       "locaiton":"bursa/Turkey",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"Mehmet osman",
       "price":"1880",
       "title":"bursa'da villa",
@@ -1701,6 +1720,7 @@
           "https://picsum.photos/200"
       ],
       "locaiton":"İstanbul/Turkey",
+      "profilPic":"https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
       "owner":"Mehmet Yıldız",
       "price":"1000",
       "title":"istanbul'da villa",

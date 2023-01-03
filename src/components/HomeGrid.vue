@@ -15,5 +15,4 @@ defineProps({
       <Card :ilan="ilan" />
     </div>
   </div>
-
 </template>
