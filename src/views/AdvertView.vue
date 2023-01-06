@@ -7,7 +7,9 @@ import { useRoute } from 'vue-router';
 import { ref } from 'vue';
 import DetailsPageTabComp from '../components/DetailsPageTabComp.vue';
 import CommentComp from '../components/CommentComp.vue';
+import CommentModal from '../components/modals/CommentModal.vue'
 
+const openComment = ref(false)
 const route = useRoute();
 const ilanlarStore = useIlanlarStore();
 const ilan = ref(null)
@@ -70,7 +72,7 @@ fetchIlan();
         </template>
         <template v-if="ilan">
             <div class="pb-10">
-               <CommentComp/>
+                <CommentComp :ratings="ilan.ratings"/>
             </div>  
         </template>
        

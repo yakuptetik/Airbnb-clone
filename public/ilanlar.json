@@ -50,7 +50,7 @@
               "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
             },
             { 
-              "rate": "5",
+              "rate": "3",
               "date":"Ekim 2022",
               "id":2,
               "raters":"Tuğba",
@@ -58,7 +58,7 @@
               "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
             },
             { 
-              "rate": "5",
+              "rate": "2",
               "date":"Eylül 2022",
               "id":3,
               "raters":"Oğuzhan",
@@ -66,7 +66,7 @@
               "description":"Berkan Bey ve ailesine misafirperverliklerinden dolayı teşekkür ederiz. İhtiyacımız olan her konuda destek oldular. Yol biraz göz korkutuyor fakat bir sorun yaşamadık."
             },
             { 
-              "rate": "5",
+              "rate": "1",
               "date":"Ağustos 2022",
               "id":4,
               "raters":"Ahmet",
@@ -82,7 +82,7 @@
               "description":"Evin konumu, manzarası, doğası çok güzeldi. Evde işinize yarabilecek tüm malzemeler vardı. Ana yoldan sonra eve giden güzergah stabilize yol, alışık olmayanlara biraz zor gelebilir"
             },
             { 
-              "rate": "5",
+              "rate": "3",
               "date":"Kasım 2022",
               "id":6,
               "raters":"Burak",
@@ -90,7 +90,7 @@
               "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
             },
             { 
-              "rate": "5",
+              "rate": "4",
               "date":"Eylül 2022",
               "id":7,
               "raters":"Lena",
@@ -98,7 +98,7 @@
               "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
             },
             { 
-              "rate": "5",
+              "rate": "4",
               "date":"Ekim 2022",
               "id":8,
               "raters":"Tuğba",
@@ -122,7 +122,7 @@
               "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
             },
             { 
-              "rate": "5",
+              "rate": "1",
               "date":"Ekim 2022",
               "id":11,
               "raters":"Tuğba",
@@ -171,43 +171,112 @@
             0, 2,5, 7, 9, 11, 15, 6, 17, 133, 22
         ],
         "ratings": [
-            { 
-              "rating": "5"
-            },
-            { 
-              "rating": "2"   
-            },
-            { 
-              "rating": "3"
-            },
-            { 
-              "rating": "5"
-            },
-            { 
-              "rating": "5"   
-            },
-            { 
-              "rating": "2"
-            },
-            { 
-              "rating": "3"
-            },
-            { 
-              "rating": "5"   
-            },
-            { 
-              "rating": "5"
-            },
-            { 
-              "rating": "4"
-             },
-            { 
-              "rating": "5"   
-            },        
-            { 
-              "rating": "4"
-            }
-            ]
+          { 
+            "rate": "5",
+            "date":"Kasım 2022",
+            "id":0,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":1,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":2,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":3,
+            "raters":"Oğuzhan",
+            "image":"https://a0.muscache.com/defaults/user_pic-225x225.png?im_w=240",
+            "description":"Berkan Bey ve ailesine misafirperverliklerinden dolayı teşekkür ederiz. İhtiyacımız olan her konuda destek oldular. Yol biraz göz korkutuyor fakat bir sorun yaşamadık."
+          },
+          { 
+            "rate": "5",
+            "date":"Ağustos 2022",
+            "id":4,
+            "raters":"Ahmet",
+            "image":"https://a0.muscache.com/im/pictures/user/735ca7f4-3dca-49b3-8c51-ef8b0e7e6c92.jpg?im_w=240",
+            "description":"Temizliği, manzarası ve ilgili olmaları çok güzeldi. Taş evin modern köy evi konsepti çok ilgi çekiciydi. Mutlaka öneririm."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ağustos 2022",
+            "id":5,
+            "raters":"Berk",
+            "image":"https://a0.muscache.com/im/pictures/user/e2844516-a074-4d43-a006-713416e1a8e7.jpg?im_w=240",
+            "description":"Evin konumu, manzarası, doğası çok güzeldi. Evde işinize yarabilecek tüm malzemeler vardı. Ana yoldan sonra eve giden güzergah stabilize yol, alışık olmayanlara biraz zor gelebilir"
+          },
+          { 
+            "rate": "5",
+            "date":"Kasım 2022",
+            "id":6,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":7,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":8,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "4",
+            "date":"Kasım 2022",
+            "id":9,
+            "raters":"Burak",
+            "image":"https://a0.muscache.com/im/pictures/user/152d19e9-fddc-421d-bb45-8e7fa929010b.jpg?im_w=240",
+            "description":"Konum olarak Berkan beyin bahsettiği gibi 4km bozuk yol. Çevrede market yok alışverişinizi eksiksiz yapın. Ev tertemiz içiniz bu konuda rahat olsun."
+          },
+          { 
+            "rate": "5",
+            "date":"Eylül 2022",
+            "id":10,
+            "raters":"Lena",
+            "image":"https://a0.muscache.com/im/pictures/user/4340336e-a9af-4cc8-96d6-fa4685778900.jpg?im_w=240",
+            "description":"Berkan ve ailesine her sey icin cok tesekkur ederiz. Cok kibar ve yardimsever insanlar. Mukemmel dizayn edilmis bir ev, her seyiyle cok guzeldi."   
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":11,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          },
+          { 
+            "rate": "5",
+            "date":"Ekim 2022",
+            "id":12,
+            "raters":"Tuğba",
+            "image":"https://a0.muscache.com/im/pictures/user/5c9614bf-af60-4373-87a9-b3c78642a9a4.jpg?im_w=240",
+            "description":"Kafa dinlemelik inzivaya çekilmelik, hem orman hem deniz manzarası bol oksijen:)Konum itibari ile biraz zor ulaştık ancak Berkan bey eve gidene kadar sağolsun bire bir ilgilendi"
+          }
+      
+          ]
     
     
     },

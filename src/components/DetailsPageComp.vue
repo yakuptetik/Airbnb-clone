@@ -10,6 +10,7 @@ import DescriptionModal from './modals/DescriptionModal.vue'
 
 const  openDesc =ref(false)
 
+
 const count = ref(0)
 const counter = ref(0)
 const counters = ref(0)
@@ -32,8 +33,14 @@ defineProps({
 </script>
 
 <template>
-    <div class="grid grid-cols-5 gap-4 pt-12">
-        <div class=" col-span-3   mr-3">
+        <div class="sticky top-0 border-b  h-20 bg-gray-50 flex items-center justify-start gap-6 z-20">
+            <a class="hover:border-y-4 hover:border-b-black border-t-transparent py-6" href="#photo">Fotoğraflar</a>
+            <a class="hover:border-y-4 hover:border-b-black border-t-transparent py-6" href="#olanak">Olanaklar</a>
+            <a class="hover:border-y-4 hover:border-b-black border-t-transparent py-6" href="#vote">Değerlendirmeler</a>
+            <a class="hover:border-y-4 hover:border-b-black border-t-transparent py-6" href="#location">Konum</a>
+    </div>
+    <div class="grid grid-cols-5 gap-4 pt-12 ">
+        <div class=" col-span-3 mr-3">
             <div class="flex border-b pb-6 items-center col-span-3 justify-between">
                 <div>
                     <div class="flex text-[22px] items-center justify-start gap-2">
@@ -143,16 +150,19 @@ defineProps({
             <div  @click="openDesc = true" class="font-medium border-b pt-6 text-base flex items-center pb-10 justify-start underline gap-1">
                 Daha fazlasını göster<svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false" style="height: 12px; width: 12px; display: block; fill: var(--f-k-smk-x);"><path d="m4.29 1.71a1 1 0 1 1 1.42-1.41l8 8a1 1 0 0 1 0 1.41l-8 8a1 1 0 1 1 -1.42-1.41l7.29-7.29z" fill-rule="evenodd"></path></svg>
             </div>
-            <div class="border-b  pb-10">
+            <div id="olanak" class="border-b  pb-10">
                 <div class="text-[22px] font-semibold pt-10">
                     Bu mekân size neler sunuyor?
                 </div>
-                <div class="grid grid-rows-5 grid-flow-col pt-4">
+                <div class="grid  grid-rows-5 grid-flow-col pt-4">
                     <div v-for="index in 10" class=" border py-2 px-4">
-                                deneme
+                         deneme
                     </div>
                 </div>
             </div>
+            <!-- ================================
+            |||||||||     CALENDAR     ||||||||||
+            ===================================-->
             <div class="flex items-center justify-center w-full  pt-10">
                 <div class="flex bg-white"> 
                     <div class="flex flex-col">
@@ -292,12 +302,12 @@ defineProps({
             <DescriptionModal :desc="desc"
             v-show="openDesc" @close-modal="openDesc = false" />
         </div>
-        <div class="col-span-2">
-            <div>
+        <div class="col-span-2 w-full">
+            <div class="sticky top-32  z-20 bg-white">
             <div class="flex items-end justify-end">
-                <div class="rounded-xl border-2 shadow-xl  p-6 w-[85%]">
+                <div class="rounded-xl border-2 shadow-xl  p-6 w-full">
                     <div class="w-full flex justify-between items-center pb-6">
-                        <div class="flex gap-2  ">
+                        <div class="flex gap-2">
                             <div class="font-medium text-[22px] flex items-end justify-start">
                                 {{ price }} ₺
                             </div>
@@ -450,7 +460,6 @@ defineProps({
                                     <div class="underline text-base flex items-center justify-end">
                                         Kapat
                                     </div>
-                                
                                 </div>
                             </button>  
                         </div>
@@ -460,7 +469,7 @@ defineProps({
                     </div>
                 </div>            
             </div> 
-            <div class="flex items-center justify-center text-[#717171] gap-4 p-6 ml-10 text-center ">
+            <div  class="flex items-center justify-center text-[#717171] gap-4 p-6 text-center ">
                     <div>
                         <svg viewBox="0 0 32 32"  aria-hidden="true" role="presentation" focusable="false" style="display: block; height: 16px; width: 16px; fill: currentcolor;"><path d="M28 6H17V4a2 2 0 0 0-2-2H3v28h2V18h10v2a2 2 0 0 0 2 2h11l.115-.006a1 1 0 0 0 .847-1.269L27.039 14l1.923-6.724A1 1 0 0 0 28 6z"></path></svg>
                     </div>

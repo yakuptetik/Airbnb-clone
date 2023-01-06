@@ -14,7 +14,7 @@ defineProps({
 })
 </script>
 <template>
-    <div class="flex justify-start items-center gap-3 pt-5">
+    <div  id="photo" class="flex justify-start items-center gap-3 pt-5">
     <div>
     <IconBase viewBox="0 0 16 16" :height="24" :width="24">
         <TranslateIcon/>
